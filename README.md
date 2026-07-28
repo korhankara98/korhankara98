@@ -15,7 +15,7 @@
 
 # Welcome to the observation deck
 
-<img align="right" width="260" src="images/moonlight-kirokaze.gif" alt="Moonlight" />
+<img align="right" alt="GIF" src="images/moonlight-kirokaze.gif" />
 
 Astronomer and data scientist based in Türkiye. I spend most of my time in the narrow strip
 where celestial mechanics, signal processing and shipping actual software overlap — writing
