@@ -32,6 +32,8 @@ that can be done better, fork it, open a PR, or file an issue — I'm always up 
 > *Every photon that lands on the sensor has been travelling for centuries to get here.
 > The least I can do is calibrate it properly.*
 
+---
+
 ## Current Ops
 
 - **Aperio** — native multi-device app for professional astronomers: high-precision
@@ -42,6 +44,8 @@ that can be done better, fork it, open a PR, or file an issue — I'm always up 
 - **Learning next** — ASCOM Alpaca as a cross-platform REST layer, and Raspberry Pi based
   observatory controllers.
 
+---
+
 ## General Info
 
 - **Fun fact**: I build rockets on the ground and photograph the things they aim for.
@@ -50,7 +54,6 @@ that can be done better, fork it, open a PR, or file an issue — I'm always up 
 - **How to reach me**:
   [![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:korhankara98@pm.me)
   [![Website](https://img.shields.io/badge/korhankara.com-0D1117?style=for-the-badge&logo=safari&logoColor=00D9FF)](https://korhankara.com)
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/CLEAR%20SKIES-CERTIFIED-00D9FF?style=for-the-badge&labelColor=1B1F24" />
@@ -61,14 +64,24 @@ that can be done better, fork it, open a PR, or file an issue — I'm always up 
   <img src="https://img.shields.io/badge/ROCKET-TESTED-E4572E?style=for-the-badge&labelColor=1B1F24" />
 </p>
 
+---
+
 ## Instruments, tools and stuff
+
+### Operating Systems
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Tails](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![R](https://img.shields.io/badge/R-A8B9CC?style=for-the-badge&logo=r&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -76,7 +89,7 @@ that can be done better, fork it, open a PR, or file an issue — I'm always up 
 
 ![Astropy](https://img.shields.io/badge/Astropy-DE4E2B?style=for-the-badge&logo=python&logoColor=white)
 ![photutils](https://img.shields.io/badge/photutils-0B3D91?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-0C3D91?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![SIMBAD](https://img.shields.io/badge/SIMBAD-1B2A4A?style=for-the-badge)
 ![VizieR](https://img.shields.io/badge/VizieR-1B2A4A?style=for-the-badge)
 ![Gaia](https://img.shields.io/badge/Gaia_DR3-003247?style=for-the-badge)
@@ -101,7 +114,7 @@ that can be done better, fork it, open a PR, or file an issue — I'm always up 
 
 ### Mobile & App Development
 
-![Swift](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Core Data](https://img.shields.io/badge/Core_Data-2F4858?style=for-the-badge&logo=apple&logoColor=white)
@@ -121,23 +134,33 @@ that can be done better, fork it, open a PR, or file an issue — I'm always up 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-D71920?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
+### Security & Privacy
+
+![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)
+![Proton VPN](https://img.shields.io/badge/Proton_VPN-6D4AFF?style=for-the-badge&logo=protonvpn&logoColor=white)
+![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white)
+![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)
+![GnuPG](https://img.shields.io/badge/GnuPG-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+
+### Browsers & Internet
+
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
+![Helium](https://img.shields.io/badge/Helium-2C7BE5?style=for-the-badge)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=duckduckgo&logoColor=white)
+
 ### Platforms & Tooling
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-## Telemetry
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=korhankara98&show_icons=true&theme=github_dark&hide_border=true&icon_color=00D9FF&title_color=00D9FF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korhankara98&layout=compact&theme=github_dark&hide_border=true&title_color=00D9FF" />
-</p>
 
 ---
 
-<sub>`[LOG] Session closed. Data archived. Clear skies.`</sub>
+<p align="center">
+  <sub><code>[LOG] Session closed. Data archived. Clear skies.</code></sub>
+</p>
