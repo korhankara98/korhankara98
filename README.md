@@ -18,7 +18,7 @@
 
 <img align="right" alt="GIF" src="images/moonlight-kirokaze.gif" />
 
-Astronomer and data scientist based in Türkiye. I spend most of my time in the narrow strip
+I'm an astronomer based in Türkiye, working toward astrophysics and data science. I spend most of my time in the narrow strip
 where celestial mechanics, signal processing and shipping actual software overlap — writing
 the code that turns a night of raw photons into something you can reason about.
 
