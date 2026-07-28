@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OBSERVING-3FB950?style=for-the-badge&labelColor=0D1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xIDEyczQtNyAxMS03IDExIDcgMTEgNy00IDctMTEgN1MxIDEyIDEgMTJ6Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMy4yIiBmaWxsPSIjMEQxMTE3Ii8%2BPC9zdmc%2B" />
+  <img src="https://img.shields.io/badge/STATUS-INTEGRATING-3FB950?style=for-the-badge&labelColor=0D1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xIDEyczQtNyAxMS03IDExIDcgMTEgNy00IDctMTEgN1MxIDEyIDEgMTJ6Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMy4yIiBmaWxsPSIjMEQxMTE3Ii8%2BPC9zdmc%2B" />
   <img src="https://img.shields.io/badge/MOUNT-TRACKING-00D9FF?style=for-the-badge&labelColor=0D1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjciLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIyLjUiLz48cGF0aCBkPSJNMTIgMXY0TTEyIDE5djRNMSAxMmg0TTE5IDEyaDQiLz48L3N2Zz4%3D" />
   <img src="https://img.shields.io/badge/DOMAIN-ASTRO%20%2F%20AEROSPACE-A371F7?style=for-the-badge&labelColor=0D1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyYzMuNSAzIDUgNyA1IDExbC01IDQtNS00YzAtNCAxLjUtOCA1LTExeiIvPjxwYXRoIGQ9Ik03IDEzbC0zIDUgNC0xTTE3IDEzbDMgNS00LTEiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjkiIHI9IjEuOCIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D" />
-  <img src="https://img.shields.io/badge/SITE-ANKARA%2039.9%C2%B0N-D29922?style=for-the-badge&labelColor=0D1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyMnM3LTcuNiA3LTEyQTcgNyAwIDAgMCA1IDEwYzAgNC40IDcgMTIgNyAxMnoiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEwIiByPSIyLjYiIGZpbGw9IiMwRDExMTciLz48L3N2Zz4%3D" />
+  <img src="https://img.shields.io/badge/TARGET-V1096%20HER-D29922?style=for-the-badge&labelColor=0D1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAybDIuNyA2LjlMMjIgOS42bC01LjUgNC41TDE4LjMgMjIgMTIgMTguMSA1LjcgMjJsMS44LTcuOUwyIDkuNmw3LjMtLjd6Ii8%2BPC9zdmc%2B" />
 </p>
 
 ```diff
 + [LOG] Dome opened. Mount slewing to target...
 + [LOG] Plate solve OK — target V1096 Her locked.
-+ [LOG] ICRS coord. (ep=J2000): RA 17h 28m 45s / DEC +43° 48' 12.9"  (first light, first star)
++ [LOG] RA 17h 28m 44.996s / DEC +43° 48' 12.905"  (first light, first star)
 ! [WARN] Seeing 3.4" and rising. Increasing guide exposure.
 - [ERR] Cloud sensor tripped at 78%. Sequence paused.
 + [LOG] Calibration frames applied. Signal is clean. Welcome in.
@@ -18,7 +18,8 @@
 
 <img align="right" alt="GIF" src="images/moonlight-kirokaze.gif" />
 
-I'm an astronomer based in Türkiye, working toward astrophysics and data science. I spend most of my time in the narrow strip
+I'm an astronomer based in Türkiye, working toward astrophysics and data science.
+I spend most of my time in the narrow strip
 where celestial mechanics, signal processing and shipping actual software overlap — writing
 the code that turns a night of raw photons into something you can reason about.
 
