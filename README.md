@@ -5,23 +5,18 @@
   <img src="https://img.shields.io/badge/TARGET-UNKNOWN-D29922?style=for-the-badge&labelColor=0D1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAybDIuNyA2LjlMMjIgOS42bC01LjUgNC41TDE4LjMgMjIgMTIgMTguMSA1LjcgMjJsMS44LTcuOUwyIDkuNmw3LjMtLjd6Ii8%2BPC9zdmc%2B" />
 </p>
 
-```diff
-+ [LOG] Dome opened. Mount slewing to target...
-+ [LOG] Plate solve OK — target V1096 Her locked.
-+ [LOG] RA 17h 28m 44.996s / DEC +43° 48' 12.905"  (first light, first star)
-! [WARN] Seeing 3.4" and rising. Increasing guide exposure.
-- [ERR] Cloud sensor tripped at 78%. Sequence paused.
-+ [LOG] Calibration frames applied. Signal is clean. Welcome in.
-```
+<p align="center">
+  <img src="images/observatory-log.gif" width="880" alt="observatory.log — dome opened, plate solve OK, target V1096 Her locked, ICRS coordinates, seeing warning, cloud sensor error, calibration applied" />
+</p>
 
 # Welcome to the observation deck
 
 <img align="right" alt="GIF" src="images/moonlight-kirokaze.gif" />
 
 I'm an astronomer based in Türkiye, working toward astrophysics and data science.
-I spend most of my time in the narrow strip
-where celestial mechanics, signal processing and shipping actual software overlap — writing
-the code that turns a night of raw photons into something you can reason about.
+I spend most of my time in the narrow strip where celestial mechanics, signal processing
+and shipping actual software overlap — writing the code that turns a night of raw photons
+into something you can reason about.
 
 The work splits roughly in two. On one side there is precision: ephemerides, coordinate
 transforms, plate solving, refraction — the arithmetic that has to be correct before anything
