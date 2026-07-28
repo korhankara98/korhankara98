@@ -7,7 +7,8 @@
 
 ```diff
 + [LOG] Dome opened. Mount slewing to target...
-+ [LOG] Plate solve OK — RA 05h35m17s / DEC -05°23'28" locked.
++ [LOG] Plate solve OK — target V1096 Her locked.
++ [LOG] ICRS coord. (ep=J2000): RA 17h 28m 45s / DEC +43° 48' 12.9"  (first light, first star)
 ! [WARN] Seeing 3.4" and rising. Increasing guide exposure.
 - [ERR] Cloud sensor tripped at 78%. Sequence paused.
 + [LOG] Calibration frames applied. Signal is clean. Welcome in.
