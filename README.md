@@ -50,7 +50,6 @@ that can be done better, fork it, open a PR, or file an issue — I'm always up 
 - **Languages**: Türkçe (native) · English
 - **How to reach me**:
   [![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:korhankara98@pm.me)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/korhankara98)
   [![Website](https://img.shields.io/badge/korhankara.com-0D1117?style=for-the-badge&logo=safari&logoColor=00D9FF)](https://korhankara.com)
 
 
