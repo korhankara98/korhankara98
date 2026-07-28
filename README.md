@@ -21,15 +21,29 @@ Astronomer and data scientist based in Türkiye. I spend most of my time in the 
 where celestial mechanics, signal processing and shipping actual software overlap — writing
 the code that turns a night of raw photons into something you can reason about.
 
-Most of what lives in these repos started as a problem I had at 3 a.m. under a bad sky: a mount
-that wouldn't guide, a catalog query that took too long, a frame stack that refused to calibrate.
-The solutions aren't always elegant, but they are tested against reality. If you spot something
-that can be done better, fork it, open a PR, or file an issue — I'm always up for a better method.
+The work splits roughly in two. On one side there is precision: ephemerides, coordinate
+transforms, plate solving, refraction — the arithmetic that has to be correct before anything
+downstream is worth doing. On the other side there is volume: catalog cross-matching,
+photometry across thousands of frames, the kind of problem where the answer only shows up
+after the data has been cleaned properly. Both halves are more interesting than they sound.
+
+The rest of it is hardware, and hardware is where the theory goes to get humbled. A mount that
+refuses to guide. A camera that silently drops frames. A single-board computer sitting in a cold
+box at the far end of a long cable, three hours from the nearest keyboard. Most observatory
+software is written for the nights when everything works. I am more interested in the other
+nights, because those are the ones that actually cost you data.
+
+So most of what lives in these repos started as a problem I had at 3 a.m. under a bad sky.
+The solutions aren't always elegant, but they are tested against reality rather than against
+an assumption of it. If you spot something that can be done better, fork it, open a PR, or file
+an issue — I'm always up for a better method, and I would rather be corrected than consistent.
+
+Two ideas run underneath nearly all of it:
 
 - **Observation** — you cannot correct what you have not measured. Bias, dark, flat: the boring
-  frames are the ones that decide whether the science survives.
+  frames are the ones that quietly decide whether the science survives.
 - **Propulsion** — a model that never leaves the notebook has zero thrust. Build it, launch it,
-  read the telemetry, iterate.
+  read the telemetry, iterate, and let the failure modes teach you something.
 
 <br clear="right" />
 
