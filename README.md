@@ -15,7 +15,7 @@
 
 # Welcome to the observation deck
 
-![Moonlight](images/moonlight-kirokaze.gif)
+<img align="right" width="260" src="images/moonlight-kirokaze.gif" alt="Moonlight" />
 
 Astronomer and data scientist based in Türkiye. I spend most of my time in the narrow strip
 where celestial mechanics, signal processing and shipping actual software overlap — writing
@@ -30,6 +30,8 @@ that can be done better, fork it, open a PR, or file an issue — I'm always up 
   frames are the ones that decide whether the science survives.
 - **Propulsion** — a model that never leaves the notebook has zero thrust. Build it, launch it,
   read the telemetry, iterate.
+
+<br clear="right" />
 
 <sub>Artwork: <a href="https://www.behance.net/gallery/37020725/Moonlight-gif-animation">&quot;Moonlight&quot; by Kirokaze</a> — used with permission.</sub>
 
