@@ -15,7 +15,7 @@
 
 # Welcome to the observation deck
 
-Astronomer and data scientist based in Ankara. I spend most of my time in the narrow strip
+Astronomer and data scientist based in Türkiye. I spend most of my time in the narrow strip
 where celestial mechanics, signal processing and shipping actual software overlap — writing
 the code that turns a night of raw photons into something you can reason about.
 
@@ -34,10 +34,10 @@ that can be done better, fork it, open a PR, or file an issue — I'm always up 
 
 ## Current Ops
 
-- **Aperio** — native iOS app (Swift / SwiftUI) for professional astronomers: high-precision
+- **Aperio** — native multi-device app for professional astronomers: high-precision
   ephemeris engine, multi-catalog enrichment (SIMBAD, VizieR, Gaia, 2MASS, AllWISE),
   weather-aware observability scoring, telescope control over ASCOM Alpaca / NINA.
-- **Kreikon Observatory** — Python automation stack for remote observing: scheduling,
+- **Kreiken Observatory** — Python automation stack for remote observing: scheduling,
   plate solving, autoguiding, automated calibration and reduction pipelines.
 - **Learning next** — ASCOM Alpaca as a cross-platform REST layer, and Raspberry Pi based
   observatory controllers.
@@ -45,8 +45,7 @@ that can be done better, fork it, open a PR, or file an issue — I'm always up 
 ## General Info
 
 - **Fun fact**: I build rockets on the ground and photograph the things they aim for.
-  Teknofest veteran — M-class solid motor, carbon fiber airframe, custom flight computer.
-- **Off-screen**: electric guitar, airsoft, and far too many clear-sky forecasts.
+- **Off-screen**: Electric guitar, airsoft, and far too many clear-sky forecasts.
 - **Languages**: Türkçe (native) · English
 - **How to reach me**:
   [![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:korhankara98@pm.me)
