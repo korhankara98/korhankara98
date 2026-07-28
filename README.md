@@ -78,7 +78,7 @@ Two ideas run underneath nearly all of it:
   <img src="https://img.shields.io/badge/POWERED%20BY-PHOTONS%20%26%20COFFEE-FFB400?style=for-the-badge&labelColor=1B1F24" />
   <img src="https://img.shields.io/badge/DEBUGGED%20AT-3%20AM-FF5C5C?style=for-the-badge&labelColor=1B1F24" />
   <img src="https://img.shields.io/badge/CONTAINS%20NO-LIGHT%20POLLUTION-7B68EE?style=for-the-badge&labelColor=1B1F24" />
-  <img src="https://img.shields.io/badge/ROCKET-TESTED-E4572E?style=for-the-badge&labelColor=1B1F24" />
+  <img src="https://img.shields.io/badge/AUTOMATION-TESTED-E4572E?style=for-the-badge&labelColor=1B1F24" />
 </p>
 
 ---
