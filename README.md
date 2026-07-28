@@ -44,7 +44,7 @@ Two ideas run underneath nearly all of it:
 
 <br clear="right" />
 
-<sub>Artwork: <a href="https://www.behance.net/gallery/37020725/Moonlight-gif-animation">&quot;Moonlight&quot; by Kirokaze</a> — used with permission.</sub>
+<sub>Artwork: <a href="https://www.behance.net/gallery/37020725/Moonlight-gif-animation">&quot;Moonlight&quot; by Kirokaze</a>
 
 > *Every photon that lands on the sensor has been travelling for centuries to get here.
 > The least I can do is calibrate it properly.*
