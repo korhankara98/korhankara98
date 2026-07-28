@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OBSERVING-00D9FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/MOUNT-TRACKING-00D9FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/DOMAIN-ASTRO%20%2F%20AEROSPACE-00D9FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/SITE-ANKARA%2039.9%C2%B0N-00D9FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/STATUS-OBSERVING-3FB950?style=for-the-badge&labelColor=0D1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xIDEyczQtNyAxMS03IDExIDcgMTEgNy00IDctMTEgN1MxIDEyIDEgMTJ6Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMy4yIiBmaWxsPSIjMEQxMTE3Ii8%2BPC9zdmc%2B" />
+  <img src="https://img.shields.io/badge/MOUNT-TRACKING-00D9FF?style=for-the-badge&labelColor=0D1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjciLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIyLjUiLz48cGF0aCBkPSJNMTIgMXY0TTEyIDE5djRNMSAxMmg0TTE5IDEyaDQiLz48L3N2Zz4%3D" />
+  <img src="https://img.shields.io/badge/DOMAIN-ASTRO%20%2F%20AEROSPACE-A371F7?style=for-the-badge&labelColor=0D1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyYzMuNSAzIDUgNyA1IDExbC01IDQtNS00YzAtNCAxLjUtOCA1LTExeiIvPjxwYXRoIGQ9Ik03IDEzbC0zIDUgNC0xTTE3IDEzbDMgNS00LTEiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjkiIHI9IjEuOCIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D" />
+  <img src="https://img.shields.io/badge/SITE-ANKARA%2039.9%C2%B0N-D29922?style=for-the-badge&labelColor=0D1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyMnM3LTcuNiA3LTEyQTcgNyAwIDAgMCA1IDEwYzAgNC40IDcgMTIgNyAxMnoiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEwIiByPSIyLjYiIGZpbGw9IiMwRDExMTciLz48L3N2Zz4%3D" />
 </p>
 
 ```diff
@@ -88,19 +88,19 @@ that can be done better, fork it, open a PR, or file an issue — I'm always up 
 ### Astronomy & Imaging
 
 ![Astropy](https://img.shields.io/badge/Astropy-DE4E2B?style=for-the-badge&logo=python&logoColor=white)
-![photutils](https://img.shields.io/badge/photutils-0B3D91?style=for-the-badge)
+![photutils](https://img.shields.io/badge/photutils-0B3D91?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![SIMBAD](https://img.shields.io/badge/SIMBAD-1B2A4A?style=for-the-badge)
-![VizieR](https://img.shields.io/badge/VizieR-1B2A4A?style=for-the-badge)
-![Gaia](https://img.shields.io/badge/Gaia_DR3-003247?style=for-the-badge)
-![ASTAP](https://img.shields.io/badge/ASTAP-2E3440?style=for-the-badge)
-![Siril](https://img.shields.io/badge/Siril-4C566A?style=for-the-badge)
-![PixInsight](https://img.shields.io/badge/PixInsight-1A1A2E?style=for-the-badge)
-![INDI](https://img.shields.io/badge/INDI-005F73?style=for-the-badge)
+![SIMBAD](https://img.shields.io/badge/SIMBAD-1B3A6B?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI4IiByeT0iMyIvPjxwYXRoIGQ9Ik00IDV2N2MwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zVjUiLz48cGF0aCBkPSJNNCAxMnY3YzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTN2LTciLz48L3N2Zz4%3D)
+![VizieR](https://img.shields.io/badge/VizieR-20486F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI4IiByeT0iMyIvPjxwYXRoIGQ9Ik00IDV2N2MwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zVjUiLz48cGF0aCBkPSJNNCAxMnY3YzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTN2LTciLz48L3N2Zz4%3D)
+![Gaia DR3](https://img.shields.io/badge/Gaia_DR3-0A5E7C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAybDIuNyA2LjlMMjIgOS42bC01LjUgNC41TDE4LjMgMjIgMTIgMTguMSA1LjcgMjJsMS44LTcuOUwyIDkuNmw3LjMtLjd6Ii8%2BPC9zdmc%2B)
+![ASTAP](https://img.shields.io/badge/ASTAP-14576B?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjciLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIyLjUiLz48cGF0aCBkPSJNMTIgMXY0TTEyIDE5djRNMSAxMmg0TTE5IDEyaDQiLz48L3N2Zz4%3D)
+![Siril](https://img.shields.io/badge/Siril-2E5A7D?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAybDIuNyA2LjlMMjIgOS42bC01LjUgNC41TDE4LjMgMjIgMTIgMTguMSA1LjcgMjJsMS44LTcuOUwyIDkuNmw3LjMtLjd6Ii8%2BPC9zdmc%2B)
+![PixInsight](https://img.shields.io/badge/PixInsight-232A4D?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyTDIgOGwxMCA2IDEwLTZ6Ii8%2BPHBhdGggZD0iTTIgMTRsMTAgNiAxMC02Ii8%2BPC9zdmc%2B)
+![INDI](https://img.shields.io/badge/INDI-006D77?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik05IDJ2Nk0xNSAydjYiLz48cGF0aCBkPSJNNiA4aDEydjNhNiA2IDAgMCAxLTEyIDB6Ii8%2BPHBhdGggZD0iTTEyIDE3djUiLz48L3N2Zz4%3D)
 ![KStars](https://img.shields.io/badge/KStars_%2F_Ekos-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
-![PHD2](https://img.shields.io/badge/PHD2-2B2D42?style=for-the-badge)
-![ASCOM Alpaca](https://img.shields.io/badge/ASCOM_Alpaca-6A4C93?style=for-the-badge)
-![NINA](https://img.shields.io/badge/N.I.N.A.-3A506B?style=for-the-badge)
+![PHD2](https://img.shields.io/badge/PHD2-2B4162?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjciLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIyLjUiLz48cGF0aCBkPSJNMTIgMXY0TTEyIDE5djRNMSAxMmg0TTE5IDEyaDQiLz48L3N2Zz4%3D)
+![ASCOM](https://img.shields.io/badge/ASCOM_Alpaca-5B4B8A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iNCIgcj0iMi41Ii8%2BPGNpcmNsZSBjeD0iNCIgY3k9IjE5IiByPSIyLjUiLz48Y2lyY2xlIGN4PSIyMCIgY3k9IjE5IiByPSIyLjUiLz48cGF0aCBkPSJNMTEgNi40TDUuNSAxNi44TTEzIDYuNGw1LjUgMTAuNE02LjUgMTloMTEiLz48L3N2Zz4%3D)
+![NINA](https://img.shields.io/badge/N.I.N.A.-34568B?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0zIDE1bDExLTYuNSAyLjYgNC41TDUuNiAxOS41eiIvPjxwYXRoIGQ9Ik0xNiA4LjVsMy41LTIgMiAzLjUtMy41IDIiLz48cGF0aCBkPSJNOSAxN3Y1TTEzIDE1LjVWMjIiLz48L3N2Zz4%3D)
 
 ### Data Science & ML
 
@@ -123,14 +123,13 @@ that can be done better, fork it, open a PR, or file an issue — I'm always up 
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Teensy](https://img.shields.io/badge/Teensy-B31942?style=for-the-badge)
+![Teensy](https://img.shields.io/badge/Teensy-3E7C5A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgcng9IjEuNSIvPjxwYXRoIGQ9Ik0xMCAydjRNMTQgMnY0TTEwIDE4djRNMTQgMTh2NE0yIDEwaDRNMiAxNGg0TTE4IDEwaDRNMTggMTRoNCIvPjwvc3ZnPg%3D%3D)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![XBee](https://img.shields.io/badge/XBee_Telemetry-004B87?style=for-the-badge)
+![XBee](https://img.shields.io/badge/XBee_Telemetry-0B6E8F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAxMnYxMCIvPjxwYXRoIGQ9Ik04LjUgOC41YTUgNSAwIDAgMSA3IDBNNSA1YTEwIDEwIDAgMCAxIDE0IDAiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxLjYiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B)
 
 ### Rocketry & CAD
 
-![OpenRocket](https://img.shields.io/badge/OpenRocket-E4572E?style=for-the-badge)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-F58220?style=for-the-badge&logo=autodesk&logoColor=white)
+![OpenRocket](https://img.shields.io/badge/OpenRocket-E4572E?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyYzMuNSAzIDUgNyA1IDExbC01IDQtNS00YzAtNCAxLjUtOCA1LTExeiIvPjxwYXRoIGQ9Ik03IDEzbC0zIDUgNC0xTTE3IDEzbDMgNS00LTEiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjkiIHI9IjEuOCIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-D71920?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
@@ -145,7 +144,7 @@ that can be done better, fork it, open a PR, or file an issue — I'm always up 
 ### Browsers & Internet
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
-![Helium](https://img.shields.io/badge/Helium-2C7BE5?style=for-the-badge)
+![Helium](https://img.shields.io/badge/Helium-2D6CDF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjBNMTIgMmExNSAxNSAwIDAgMSAwIDIwYTE1IDE1IDAgMCAxIDAtMjB6Ii8%2BPC9zdmc%2B)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=duckduckgo&logoColor=white)
 
@@ -154,7 +153,7 @@ that can be done better, fork it, open a PR, or file an issue — I'm always up 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik01IDJsMTQgOS02LjUgMS40TDkgMjB6Ii8%2BPC9zdmc%2B)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
