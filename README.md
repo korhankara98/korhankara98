@@ -13,38 +13,25 @@
 + [LOG] Calibration frames applied. Signal is clean. Welcome in.
 ```
 
-<table>
-<tr>
-<td width="310" align="center">
-
-<img src="https://raw.githubusercontent.com/korhankara98/korhankara98/main/images/moonlight-kirokaze.gif" width="290" />
-
-</td>
-<td valign="top">
-
 # Welcome to the observation deck
 
-Astronomer and data scientist based in Türkiye. I spend most of my time in the
-narrow strip where celestial mechanics, signal processing and shipping actual
-software overlap — writing the code that turns a night of raw photons into
-something you can reason about.
+![Moonlight](images/moonlight-kirokaze.gif)
 
-Most of what lives in these repos started as a problem I had at 3 a.m. under a
-bad sky: a mount that wouldn't guide, a catalog query that took too long, a
-frame stack that refused to calibrate. The solutions aren't always elegant, but
-they are tested against reality. If you spot something that can be done better,
-fork it, open a PR, or file an issue — I'm always up for a better method.
+Astronomer and data scientist based in Türkiye. I spend most of my time in the narrow strip
+where celestial mechanics, signal processing and shipping actual software overlap — writing
+the code that turns a night of raw photons into something you can reason about.
 
-- **Observation** — you cannot correct what you have not measured. Bias, dark,
-  flat: the boring frames decide whether the science survives.
-- **Propulsion** — a model that never leaves the notebook has zero thrust.
-  Build it, launch it, read the telemetry, iterate.
+Most of what lives in these repos started as a problem I had at 3 a.m. under a bad sky: a mount
+that wouldn't guide, a catalog query that took too long, a frame stack that refused to calibrate.
+The solutions aren't always elegant, but they are tested against reality. If you spot something
+that can be done better, fork it, open a PR, or file an issue — I'm always up for a better method.
 
-</td>
-</tr>
-</table>
+- **Observation** — you cannot correct what you have not measured. Bias, dark, flat: the boring
+  frames are the ones that decide whether the science survives.
+- **Propulsion** — a model that never leaves the notebook has zero thrust. Build it, launch it,
+  read the telemetry, iterate.
 
-<sub>Artwork: <a href="https://www.behance.net/gallery/37020725/Moonlight-gif-animation">&quot;Moonlight&quot; by Kirokaze</a>
+<sub>Artwork: <a href="https://www.behance.net/gallery/37020725/Moonlight-gif-animation">&quot;Moonlight&quot; by Kirokaze</a> — used with permission.</sub>
 
 > *Every photon that lands on the sensor has been travelling for centuries to get here.
 > The least I can do is calibrate it properly.*
