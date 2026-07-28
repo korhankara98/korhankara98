@@ -76,6 +76,7 @@ that can be done better, fork it, open a PR, or file an issue — I'm always up 
 
 ![Astropy](https://img.shields.io/badge/Astropy-DE4E2B?style=for-the-badge&logo=python&logoColor=white)
 ![photutils](https://img.shields.io/badge/photutils-0B3D91?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-0C3D91?style=for-the-badge)
 ![SIMBAD](https://img.shields.io/badge/SIMBAD-1B2A4A?style=for-the-badge)
 ![VizieR](https://img.shields.io/badge/VizieR-1B2A4A?style=for-the-badge)
 ![Gaia](https://img.shields.io/badge/Gaia_DR3-003247?style=for-the-badge)
